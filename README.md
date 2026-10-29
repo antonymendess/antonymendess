@@ -40,7 +40,7 @@
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| [💰 App Financeiro](https://github.com/antonymendess/controle-financeiro) | Controle de comissões parceladas, contas fixas, receitas e cartão, com visão do mês atual e dos próximos | React · FastAPI · Supabase · Vercel | ✅ Em produção |
+| [💰 App Financeiro](https://github.com/antonymendess/financas-app.git) | Controle de comissões parceladas, contas fixas, receitas e cartão, com visão do mês atual e dos próximos | React · FastAPI · Supabase · Vercel | ✅ Em produção |
 [📈 Dashboard Comercial] | Relatórios comerciais integrados à API de um CRM | Python · FastAPI | 🚧 Em desenvolvimento |
 
 
